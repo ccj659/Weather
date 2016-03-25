@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_today_temp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/tv_today_weather"
+        android:layout_alignBottom="@+id/tv_today_weather"
+        android:layout_alignParentLeft="true"
+        android:text="阵雨转小雨"
+           android:textColor="@android:color/white"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+           android:textColor="@android:color/white"
+        android:layout_marginTop="17dp"
+        android:text="今天"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/tv_today_temper"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView1"
+        android:layout_alignBottom="@+id/textView1"
+        android:layout_toRightOf="@+id/textView1"
+           android:textColor="@android:color/white"
+        android:text="12~15℃"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/tv_tomorrow_temper"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView2"
+        android:layout_alignParentRight="true"
+        android:text="12~15℃"
+           android:textColor="@android:color/white"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/tv_today_weather"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+           android:textColor="@android:color/white"
+        android:layout_marginTop="22dp"
+        android:layout_toLeftOf="@+id/tv_tomorrow_temper"
+        android:text="多云"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <ImageView
+        android:id="@+id/imageView_tommorrow_weath"
+        android:layout_width="30sp"
+        android:layout_height="30sp"
+        android:layout_alignBottom="@+id/tv_today_weather"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/ww1" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/tv_today_temper"
+        android:layout_alignBottom="@+id/tv_today_temper"
+        android:layout_toLeftOf="@+id/tv_tomorrow_temper"
+        android:text="明天"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/white" />
+
+    <ImageView
+        android:id="@+id/imageView_today_weath"
+        android:layout_width="30sp"
+        android:layout_height="30sp"
+        android:layout_alignBottom="@+id/tv_today_temp"
+        android:layout_toRightOf="@+id/tv_today_temp"
+        android:src="@drawable/ww2" />
+
+</RelativeLayout>

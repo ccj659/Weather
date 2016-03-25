@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_no_back"
+    android:layout_width="match_parent"
+    android:background="@drawable/ic_weather_bg"
+    
+    android:layout_height="match_parent" >
+
+
+   <TextView
+        android:id="@+id/tv_no_temper"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/iv_weather"
+        android:layout_alignLeft="@+id/tv_no_weather"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/iv_no_city"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/tv_no_temper"
+        android:layout_alignBottom="@+id/tv_no_temper"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="14dp"
+        android:text="Small Text"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/tv_no_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/tv_no_weather"
+        android:layout_alignBottom="@+id/tv_no_weather"
+        android:layout_alignRight="@+id/iv_no_city"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/tv_no_weather"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/iv_weather"
+        android:layout_marginLeft="17dp"
+        android:layout_toRightOf="@+id/iv_weather"
+        android:text="Medium Text"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <ImageView
+        android:id="@+id/iv_weather"
+        android:layout_width="50sp"
+        android:layout_height="50sp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="15dp"
+        android:src="@drawable/org3_ww1" />
+
+</RelativeLayout>

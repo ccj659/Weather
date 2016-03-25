@@ -1,0 +1,3 @@
+include ':app', ':slidelibrary', ':pulltorefresh'
+include ':library'
+include ':zMyApp'

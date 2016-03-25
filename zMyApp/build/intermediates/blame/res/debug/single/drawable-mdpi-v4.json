@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\exploded-aar\\Weather\\library\\unspecified\\res\\drawable-mdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\exploded-aar\\Weather\\library\\unspecified\\res\\drawable-mdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_lifeindex_dress.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\drawable-mdpi\\ic_lifeindex_dress.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\exploded-aar\\Weather\\pulltorefresh\\unspecified\\res\\drawable-mdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_lifeindex_calendar.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\drawable-mdpi\\ic_lifeindex_calendar.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\exploded-aar\\Weather\\library\\unspecified\\res\\drawable-mdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\exploded-aar\\Weather\\library\\unspecified\\res\\drawable-mdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\exploded-aar\\Weather\\library\\unspecified\\res\\drawable-mdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_lifeindex_default.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\drawable-mdpi\\ic_lifeindex_default.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_lifeindex_carwash.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\drawable-mdpi\\ic_lifeindex_carwash.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_lifeindex_ultravioletrays.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\drawable-mdpi\\ic_lifeindex_ultravioletrays.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_lifeindex_control.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\drawable-mdpi\\ic_lifeindex_control.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_lifeindex_coldl.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\drawable-mdpi\\ic_lifeindex_coldl.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\exploded-aar\\Weather\\library\\unspecified\\res\\drawable-mdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_lifeindex_city.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\drawable-mdpi\\ic_lifeindex_city.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_lifeindex_sport.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\drawable-mdpi\\ic_lifeindex_sport.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_lifeindex_makeup.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\drawable-mdpi\\ic_lifeindex_makeup.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\indicator_arrow.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\exploded-aar\\Weather\\pulltorefresh\\unspecified\\res\\drawable-mdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\exploded-aar\\Weather\\pulltorefresh\\unspecified\\res\\drawable-mdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_lifeindex_tour.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\drawable-mdpi\\ic_lifeindex_tour.png"
+    }
+]

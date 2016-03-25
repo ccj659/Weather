@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\layout11111.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\layout11111.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\routesearch_list_poi.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\routesearch_list_poi.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\look_point_layout.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\look_point_layout.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\exploded-aar\\Weather\\pulltorefresh\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_richpush_actionbar_layout.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\jpush_richpush_actionbar_layout.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\loading_layout.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\loading_layout.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\popwindow_layout.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\popwindow_layout.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\poikeywordsearch_uri.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\poikeywordsearch_uri.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_basic_navi.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\activity_basic_navi.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\pageturning_h.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\pageturning_h.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\weather_list_item.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\weather_list_item.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\menu_right_bottom.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\menu_right_bottom.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\lookpoint_item.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\lookpoint_item.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\localdemo_layout.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\localdemo_layout.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\list_news_item.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\list_news_item.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\locationmodesource_activity.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\locationmodesource_activity.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\view_test.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\view_test.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\fragment2_layout.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\fragment2_layout.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\fragment3_layout.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\fragment3_layout.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\customer_notitfication_layout.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\customer_notitfication_layout.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\addcity_item.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\addcity_item.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\local_news_layout.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\local_news_layout.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\user_layout.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\user_layout.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\fragment4_layout.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\fragment4_layout.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\city_container.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\city_container.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\list_fragment1.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\list_fragment1.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\notification_layout.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\notification_layout.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_poisearch.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\activity_poisearch.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\hot_news_item.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\hot_news_item.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\pageturning_m.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\pageturning_m.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_container.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\fragment_container.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\route_inputs.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\route_inputs.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\news_layout.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\news_layout.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\route_activity.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\route_activity.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\news_main.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\news_main.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\exploded-aar\\Weather\\slidelibrary\\unspecified\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\user_item_layout.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\user_item_layout.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\set_push_time.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\set_push_time.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\exploded-aar\\Weather\\pulltorefresh\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\customer_notitfication_layout_one.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\customer_notitfication_layout_one.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\theme_item_layout.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\theme_item_layout.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\news_detail.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\news_detail.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\push_set_dialog.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\push_set_dialog.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\hot_news_layout.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\hot_news_layout.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\widget_4x2.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\widget_4x2.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\poiaroundsearch_activity.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\poiaroundsearch_activity.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\theme_layout.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\theme_layout.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\mainpush.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\mainpush.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\weather_frame_layout.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\weather_frame_layout.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\add_city_layout.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\add_city_layout.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\poi_result_list.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\poi_result_list.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\left_menu_frame.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\left_menu_frame.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\custom_info_window.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\custom_info_window.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\layout\\user_info_layout.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\layout\\user_info_layout.xml"
+    }
+]

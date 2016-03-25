@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\exploded-aar\\Weather\\pulltorefresh\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable\\hot_area_press.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\drawable\\hot_area_press.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\exploded-aar\\Weather\\pulltorefresh\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_info_bubble.9.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\drawable\\custom_info_bubble.9.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable\\sleector.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\drawable\\sleector.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\drawable\\tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable\\window_white_bg.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\drawable\\window_white_bg.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tabtext.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\drawable\\selector_tabtext.xml"
+    }
+]

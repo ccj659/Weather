@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_layout_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true"
+    android:background="@drawable/bg0_fine_day"
+    android:orientation="vertical" >
+<!--        <include layout="@layout/menu_right_bottom" />  -->
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+     
+          <TextView
+            android:id="@+id/tv_weather"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+             android:textColor="@android:color/white"
+            
+            android:textSize="30sp"
+            android:text="诸城"
+            android:textAppearance="?android:attr/textAppearanceLarge" />    
+   <ImageView
+        android:id="@+id/im_ic_actionbar_share_normal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:onClick="onClick"
+        android:src="@drawable/photo_share" /> 
+
+    <ImageView
+        android:id="@+id/im_lacal"
+        android:layout_width="30sp"
+        android:layout_height="30sp"
+        android:layout_toLeftOf="@+id/tv_weather"
+        android:onClick="onClick"
+        android:src="@drawable/title_location" />
+
+    <ImageView
+        android:id="@+id/im_city_btn_pressed"
+        android:layout_width="60sp"
+        android:layout_height="60sp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:onClick="onClick"
+        android:src="@drawable/city_btn_pressed" />
+
+    <LinearLayout
+        android:id="@+id/lin_group"
+        android:layout_width="match_parent"
+        android:layout_height="15sp"
+        android:layout_below="@+id/tv_weather"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+       
+    </LinearLayout>
+     
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/im_sunshine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/framelayout"
+        android:layout_marginTop="122dp"
+        android:src="@drawable/sunshine" />
+
+    <ImageView
+        android:id="@+id/iv_fine_day_cloud1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:layout_marginTop="210sp"
+        android:layout_marginLeft="100dp"
+        android:src="@drawable/fine_day_cloud2" />
+
+    <ImageView
+        android:id="@+id/im_fine_day_cloud2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:layout_marginTop="230sp"
+        android:src="@drawable/fine_day_cloud2" />
+
+    <ImageView
+        android:id="@+id/iv_fineday_bird"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="128dp"
+        android:background="@animator/fineday_bird" />
+
+    <ImageView
+        android:id="@+id/iv_fineday_bird1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="480dp"
+        android:background="@animator/fineday_bird" />
+
+ <android.support.v4.view.ViewPager
+     android:id="@+id/main_fragment_pager"
+     android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+     android:layout_marginTop="54sp" >
+
+    <FrameLayout
+        android:id="@+id/framelayout"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="55sp" >
+
+    </FrameLayout>
+ </android.support.v4.view.ViewPager>
+
+ <RelativeLayout
+     android:id="@+id/linearl_main"
+     android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+     android:layout_gravity="bottom"
+     android:background="@android:color/transparent"
+     
+     > 
+ </RelativeLayout>
+
+</FrameLayout>

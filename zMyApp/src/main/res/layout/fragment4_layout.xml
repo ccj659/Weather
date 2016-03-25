@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <TextView 
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="生活信息"
+                 android:textColor="@android:color/white"
+        android:textSize="30sp"
+        
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+	<Button 
+	             android:textColor="@android:color/white"
+	android:id="@+id/ic_lifeindex_calendar"
+    android:layout_marginTop="4dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="日历"
+    android:textSize="16sp"
+    android:paddingLeft="5dp"
+    android:paddingTop="5dp"
+    android:paddingRight="5dp"
+    android:paddingBottom="5dp"
+ 	android:background="@android:color/transparent"
+    android:drawableTop="@drawable/ic_lifeindex_calendar"
+    android:layout_weight="1"
+    />  
+	    <!--        Button button=new Button(getContext());
+        button.setText(text); -->
+	 	<Button 
+	android:id="@+id/ic_lifeindex_sport"
+    android:layout_marginTop="4dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="运动"
+    android:textSize="16sp"
+         android:textColor="@android:color/white"
+    android:paddingLeft="5dp"
+    android:paddingTop="5dp"
+    android:paddingRight="5dp"
+    android:paddingBottom="5dp"
+    android:layout_weight="1"
+ 	android:background="@android:color/transparent"
+    android:drawableTop="@drawable/ic_lifeindex_sport"
+    />    
+	    
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+	 		 	<Button 
+	android:id="@+id/ic_lifeindex_coldl"
+    android:layout_marginTop="4dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="养生"
+    android:textSize="16sp"
+         android:textColor="@android:color/white"
+    android:paddingLeft="5dp"
+    android:paddingTop="5dp"
+    android:paddingRight="5dp"
+    android:paddingBottom="5dp"
+    android:layout_weight="1"
+ 	android:background="@android:color/transparent"
+    android:drawableTop="@drawable/ic_lifeindex_coldl"
+    />  
+      	 	<Button 
+	android:id="@+id/ic_lifeindex_dress"
+    android:layout_marginTop="4dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="本地"
+    android:textSize="16sp"
+         android:textColor="@android:color/white"
+    android:paddingLeft="5dp"
+    android:paddingTop="5dp"
+    android:paddingRight="5dp"
+    android:paddingBottom="5dp"
+    android:layout_weight="1"
+ 	android:background="@android:color/transparent"
+    android:drawableTop="@drawable/ic_lifeindex_dress"
+    />    
+        
+        
+        
+    </LinearLayout>
+      <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+	 		 	<Button 
+	android:id="@+id/ic_lifeindex_tour"
+    android:layout_marginTop="4dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="旅行票务"
+    android:textSize="16sp"
+         android:textColor="@android:color/white"
+    android:paddingLeft="5dp"
+    android:paddingTop="5dp"
+    android:paddingRight="5dp"
+    android:paddingBottom="5dp"
+    android:layout_weight="1"
+ 	android:background="@android:color/transparent"
+    android:drawableTop="@drawable/ic_lifeindex_tour"
+    />  
+      	 	<Button 
+	android:id="@+id/ic_lifeindex_ultravioletrays"
+    android:layout_marginTop="4dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="导航定位"
+    android:textSize="16sp"
+         android:textColor="@android:color/white"
+    android:paddingLeft="5dp"
+    android:paddingTop="5dp"
+    android:paddingRight="5dp"
+    android:paddingBottom="5dp"
+    android:layout_weight="1"
+ 	android:background="@android:color/transparent"
+    android:drawableTop="@drawable/ic_lifeindex_ultravioletrays"
+    />    
+        
+        
+        
+    </LinearLayout>
+
+</LinearLayout>

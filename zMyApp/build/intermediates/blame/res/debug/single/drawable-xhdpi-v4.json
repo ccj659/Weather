@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\exploded-aar\\Weather\\library\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\exploded-aar\\Weather\\library\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\exploded-aar\\Weather\\library\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\exploded-aar\\Weather\\pulltorefresh\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\exploded-aar\\Weather\\library\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\exploded-aar\\Weather\\library\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\exploded-aar\\Weather\\pulltorefresh\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\exploded-aar\\Weather\\pulltorefresh\\unspecified\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\exploded-aar\\Weather\\library\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_unselected_holo.9.png"
+    }
+]

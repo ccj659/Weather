@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\animator\\pop_out_translate.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\animator\\pop_out_translate.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\animator\\fineday_bird.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\animator\\fineday_bird.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\animator\\alpha.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\animator\\alpha.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\animator\\broadcast.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\animator\\broadcast.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\animator\\into.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\animator\\into.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\animator\\fineday_bird1.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\animator\\fineday_bird1.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\animator\\pop_in_translate.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\animator\\pop_in_translate.xml"
+    },
+    {
+        "merged": "D:\\graduation_project\\Weather\\zMyApp\\build\\intermediates\\res\\merged\\debug\\animator\\rotate.xml",
+        "source": "D:\\graduation_project\\Weather\\zMyApp\\src\\main\\res\\animator\\rotate.xml"
+    }
+]

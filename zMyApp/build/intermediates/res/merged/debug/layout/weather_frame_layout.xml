@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent" >
+   <include layout="@layout/menu_right_bottom" /> 
+    <!-- android:background="@android:color/transparent" -->
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="50sp"
+        android:layout_height="50sp"
+        android:layout_alignLeft="@+id/bt3"
+        android:layout_marginTop="400sp"
+                android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignTop="@+id/tv_weather"
+        android:src="@drawable/broadcasting3" />
+
+    <ImageView
+        android:id="@+id/im_trend_wind"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/tv_shidu"
+        android:layout_marginLeft="16dp"
+        android:layout_toRightOf="@+id/tv_shidu"
+        android:src="@drawable/trend_wind_4" />
+
+    <TextView
+        android:id="@+id/tv_wind"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        
+        android:layout_alignTop="@+id/tv_shidu"
+        android:layout_toRightOf="@+id/im_trend_wind"
+        android:textSize="30sp"
+        
+        android:text="1级" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/bt3"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/bt3"
+        android:layout_marginLeft="15sp"
+        android:layout_marginRight="15sp"
+        android:text=":89"
+        android:textColor="@android:color/white"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/tv_weather"
+        android:layout_below="@+id/imageView4"
+        android:layout_marginTop="42dp"
+        android:src="@drawable/main_icon_humidity" />
+
+    <TextView
+        android:id="@+id/tv_shidu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView1"
+        android:layout_toRightOf="@+id/imageView1"
+        android:text="89%"
+        android:textColor="@android:color/white"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/tv_shidu"
+        android:layout_alignLeft="@+id/imageView1"
+        android:layout_toLeftOf="@+id/imageView4"
+        android:text="15℃"
+        android:textColor="@android:color/white"
+        android:textSize="80sp" />
+
+    <TextView
+        android:id="@+id/tv_weathers"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView4"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="29dp"
+        android:text="多云转晴"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/white"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/tv_now_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="4dp"
+         android:textColor="@android:color/white"
+        android:text=""
+        />
+
+    <TextView
+        android:id="@+id/tv_update_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15sp"
+        android:layout_alignParentLeft="true"
+        android:text=""
+        android:textColor="@android:color/white" />
+
+    <ImageView
+        android:id="@+id/bt3"
+        android:layout_width="30sp"
+        android:layout_height="30sp"
+        android:layout_below="@+id/tv_update_time"
+        android:layout_marginTop="45dp"
+        android:layout_toLeftOf="@+id/textView3"
+        android:src="@drawable/aqi_icon_green" />
+ 
+</RelativeLayout>
